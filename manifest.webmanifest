@@ -1,0 +1,28 @@
+{
+  "name": "Joyce's App",
+  "short_name": "Joyce's App",
+  "description": "Github Page for Joyce's App",
+  "scope": "/ICD2O-Unit-6-01-Joyce-Nkengbeza/",
+  "start_url": "/ICD2O-Unit-6-01-Joyce-Nkengbeza/",
+  "permissions": [ 
+    "unlimitedStorage",
+    "fullscreen"
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+    {
+      "src": "./android-chrome-192x192new.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./android-chrome-512x512new.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
